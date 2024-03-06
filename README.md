@@ -1,5 +1,8 @@
 # RocketTanks
-Završni za MMS
+Završni za MMS.
+
+# Generalne informacije
+Projekt je inspiriran igricom [Pocket Tanks](https://www.blitwise.com/pocket-tanks).
 
 # Brainstorming
 Potrebne su sljedeće scene za kompletnu igru:
@@ -36,3 +39,6 @@ Zadaci posloženi po prioritetu:
 1. custom shells and physics
 1. Weapon shop scene
 1. Main menu scene
+
+# Potrebne biblioteke
+Plan je koristiti biblioteku [Box2D for Processing](https://github.com/shiffman/Box2D-for-Processing) u svrhu simulacije fizike.
